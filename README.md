@@ -1,8 +1,5 @@
 ### Hi, I'am Oliver Edson Hernández López 👋
 
-<!--
-**oliverEdson/oliverEdson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h3 align="center">Apasionado en la programación...</h3>
 
 - 📫 How to reach me **blackxzonzg@gmail.com**
